@@ -1,0 +1,30 @@
+Table banks {
+  bank_id integer [pk, increment]
+  bank_name VARCHAR(32) [not null]
+}
+
+Table cards {
+  card_id integer [pk, increment]
+  card_name VARCHAR(64) 
+  bank_id integer [not null, ref: > banks.bank_id]
+}
+
+Table store_types {
+  store_type_id integer [pk, increment]
+  store_type_name varchar(64) [not null, unique]
+}
+
+Table stores {
+  store_id integer [pk, increment]
+  store_name varchar(64) [not null, unique]
+  store_type_id integer [not null, ref: > store_types.store_type_id]
+}
+
+Table rewards {
+  reward_id integer [pk, increment]
+  card_id integer [not null, ref: > cards.card_id]
+  store_id integer [not null, ref: > stores.store_id]
+  reward_amount decimal(5,2) [not null]
+  ts_epoch_ms bigint [not null]
+}
+

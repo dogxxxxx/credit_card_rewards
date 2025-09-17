@@ -1,1 +1,1882 @@
-"[{\"store_name\":\"ChatGPT\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Canva\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Claude\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Cursor\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Duolingo\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Gamma\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Gemini\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Notion\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Perplexity\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Speak\",\"store_type_name\":\"AI\u5de5\u5177\",\"reward_amount\":0.3},{\"store_name\":\"Apple \u5a92\u9ad4\u670d\u52d9\",\"store_type_name\":\"\u6578\u4f4d/\u4e32\u6d41\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"Google Play\",\"store_type_name\":\"\u6578\u4f4d/\u4e32\u6d41\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"Disney\",\"store_type_name\":\"\u6578\u4f4d/\u4e32\u6d41\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"Netflix\",\"store_type_name\":\"\u6578\u4f4d/\u4e32\u6d41\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"Spotify\",\"store_type_name\":\"\u6578\u4f4d/\u4e32\u6d41\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"KKBOX\",\"store_type_name\":\"\u6578\u4f4d/\u4e32\u6d41\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"YouTube Premium\",\"store_type_name\":\"\u6578\u4f4d/\u4e32\u6d41\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"Max\",\"store_type_name\":\"\u6578\u4f4d/\u4e32\u6d41\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"\u8766\u76ae\u8cfc\u7269\",\"store_type_name\":\"\u7db2\u8cfc\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"momo\u8cfc\u7269\u7db2\",\"store_type_name\":\"\u7db2\u8cfc\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"PChome 24h\u8cfc\u7269(\u4e0d\u542b\u5132\u503c\u53ca\u96fb\u5b50\u7968\u5238)\",\"store_type_name\":\"\u7db2\u8cfc\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"\u5c0f\u6a39\u8cfc(\u4e0d\u542b\u96fb\u5b50\u7968\u5238)\",\"store_type_name\":\"\u7db2\u8cfc\u5e73\u53f0\",\"reward_amount\":0.3},{\"store_name\":\"Coupang \u9177\u6f8e(\u53f0\u7063)\",\"store_type_name\":\"\u570b\u969b\u96fb\u5546\",\"reward_amount\":0.3},{\"store_name\":\"\u6dd8\u5bf6/\u5929\u8c93\",\"store_type_name\":\"\u570b\u969b\u96fb\u5546\",\"reward_amount\":0.3}]"
+[
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "ChatGPT",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Canva",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Claude",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Cursor",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Duolingo",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Gamma",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Gemini",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Notion",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Perplexity",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Speak",
+        "store_type_name": "AI工具",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Apple 媒體服務",
+        "store_type_name": "數位/串流平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Google Play",
+        "store_type_name": "數位/串流平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Disney+",
+        "store_type_name": "數位/串流平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Netflix",
+        "store_type_name": "數位/串流平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Spotify",
+        "store_type_name": "數位/串流平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "KKBOX",
+        "store_type_name": "數位/串流平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "YouTube Premium",
+        "store_type_name": "數位/串流平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Max",
+        "store_type_name": "數位/串流平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "蝦皮購物",
+        "store_type_name": "網購平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "momo購物網",
+        "store_type_name": "網購平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "PChome 24h購物(不含儲值及電子票券)",
+        "store_type_name": "網購平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "小樹購(不含電子票券)",
+        "store_type_name": "網購平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "Coupang 酷澎(台灣)",
+        "store_type_name": "國際電商",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "玩數位",
+        "store_name": "淘寶/天貓",
+        "store_type_name": "國際電商",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "遠東SOGO百貨",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "遠東Garden City",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "太平洋百貨",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "新光三越",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "SKM Park",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "BELLAVITA",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "微風廣場",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "遠東百貨",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "Big City遠東巨城購物中心",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "誠品生活",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "環球購物中心",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "CITYLINK",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "統一時代台北店(不含DREAM PLAZA)",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "台北101",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "ATT 4 FUN",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "明曜百貨",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "京站",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "美麗華",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "大葉高島屋",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "比漾廣場",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "大江國際購物中心",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "中友百貨",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "廣三SOGO",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "Tiger City",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "勤美誠品綠園道",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "大魯閣新時代",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "耐斯廣場",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "南紡購物中心",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "夢時代",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "漢神百貨",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "漢神巨蛋",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "MITSUI OUTLET PARK(林口、台中港、台南)",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "Mitsui Shopping Park LaLaport(南港、台中)",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "義大世界購物廣場",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "華泰名品城",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "義享天地",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "麗寶OUTLET Mall",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "秀泰生活",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "台茂購物中心",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "新月廣場",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "三創生活",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "宏匯廣場",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "NOKE忠泰樂生活",
+        "store_type_name": "國內指定百貨",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "Uber Eats",
+        "store_type_name": "國內外送平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "foodpanda",
+        "store_type_name": "國內外送平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "拉亞漢堡",
+        "store_type_name": "國內餐飲",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "% Arabica咖啡",
+        "store_type_name": "國內餐飲",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "黑沃咖啡",
+        "store_type_name": "國內餐飲",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "SUBWAY",
+        "store_type_name": "國內餐飲",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "50嵐",
+        "store_type_name": "國內餐飲",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "麻古茶坊",
+        "store_type_name": "國內餐飲",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "六扇門時尚湯鍋",
+        "store_type_name": "國內餐飲",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "八方雲集",
+        "store_type_name": "國內餐飲",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "麥當勞",
+        "store_type_name": "連鎖速食",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "康是美",
+        "store_type_name": "國內藥妝",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "樂饗購",
+        "store_name": "屈臣氏",
+        "store_type_name": "國內藥妝",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "海外實體消費(含國外餐飲、飯店到店付款等)",
+        "store_type_name": "指定海外消費",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "東京迪士尼樂園",
+        "store_type_name": "日本指定遊樂園",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "東京華納兄弟哈利波特影城",
+        "store_type_name": "日本指定遊樂園",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "大阪環球影城(USJ)",
+        "store_type_name": "日本指定遊樂園",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "Apple錢包指定交通卡 (SUICA 、PASMO、ICOCA)",
+        "store_type_name": "指定國內外交通",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "Uber",
+        "store_type_name": "指定國內外交通",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "Grab",
+        "store_type_name": "指定國內外交通",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "台灣高鐵",
+        "store_type_name": "指定國內外交通",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "yoxi",
+        "store_type_name": "指定國內外交通",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "台灣大車隊",
+        "store_type_name": "指定國內外交通",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "iRent",
+        "store_type_name": "指定國內外交通",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "和運租車",
+        "store_type_name": "指定國內外交通",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "格上租車",
+        "store_type_name": "指定國內外交通",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "中華航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "長榮航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "星宇航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "台灣虎航",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "國泰航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "樂桃航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "阿聯酋航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "酷航",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "捷星航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "日本航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "ANA全日空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "亞洲航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "聯合航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "新加坡航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "越捷航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "大韓航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "達美航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "土耳其航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "卡達航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "法國航空",
+        "store_type_name": "指定航空公司",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "星野集團",
+        "store_type_name": "指定飯店住宿",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "全球迪士尼飯店",
+        "store_type_name": "指定飯店住宿",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "東橫INN",
+        "store_type_name": "指定飯店住宿",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "KKday",
+        "store_type_name": "指定旅遊/訂房平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "Agoda",
+        "store_type_name": "指定旅遊/訂房平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "Klook",
+        "store_type_name": "指定旅遊/訂房平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "Airbnb",
+        "store_type_name": "指定旅遊/訂房平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "Booking.com",
+        "store_type_name": "指定旅遊/訂房平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "Trip.com",
+        "store_type_name": "指定旅遊/訂房平台",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "ezTravel易遊網",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "雄獅旅遊",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "可樂旅遊",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "東南旅遊",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "五福旅遊",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "燦星旅遊",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "山富旅遊",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "長汎假期",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "鳳凰旅行社",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "Ezfly易飛網",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "理想旅遊",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "永利旅行社",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "趣旅行",
+        "store_name": "三賀旅行社",
+        "store_type_name": "指定旅行社",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "集精選",
+        "store_name": "家樂福",
+        "store_type_name": "量販超市",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "集精選",
+        "store_name": "LOPIA台灣",
+        "store_type_name": "量販超市",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "集精選",
+        "store_name": "全聯福利中心(不含大全聯)",
+        "store_type_name": "量販超市",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "集精選",
+        "store_name": "台灣中油-直營站",
+        "store_type_name": "指定加油",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "集精選",
+        "store_name": "7-ELEVEN (7-11) 實體門市",
+        "store_type_name": "指定超商",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "集精選",
+        "store_name": "全家便利商店",
+        "store_type_name": "指定超商",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "集精選",
+        "store_name": "IKEA宜家家居",
+        "store_type_name": "生活家居",
+        "reward_amount": 0.0
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "Onitsuka Tiger 鬼塚虎台灣官網",
+        "store_type_name": "9月限定壽星驚喜包",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "東京迪士尼樂園",
+        "store_type_name": "日本指定遊樂園實體消費",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "大阪環球影城(USJ)",
+        "store_type_name": "日本指定遊樂園實體消費",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "肌膚之鑰台灣官網",
+        "store_type_name": "保養旅遊",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "Samsonite 台灣官網",
+        "store_type_name": "保養旅遊",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "American Tourister 台灣官網",
+        "store_type_name": "保養旅遊",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "creammm.t",
+        "store_type_name": "指定蛋糕甜點店、咖啡廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "某某法式甜點",
+        "store_type_name": "指定蛋糕甜點店、咖啡廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "CJSJ",
+        "store_type_name": "指定蛋糕甜點店、咖啡廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "紅葉蛋糕指定網站",
+        "store_type_name": "指定蛋糕甜點店、咖啡廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "畬室法式巧克力",
+        "store_type_name": "指定蛋糕甜點店、咖啡廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "貓吃魚",
+        "store_type_name": "台中特選餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "昭日堂燒肉",
+        "store_type_name": "台中特選餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "昭日堂鍋煮",
+        "store_type_name": "台中特選餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "匠屋燒肉  朝馬館",
+        "store_type_name": "台中特選餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "匠屋明義本店",
+        "store_type_name": "台中特選餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "Wagyu Club和牛俱樂部",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "Amber Hill",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "D&C Residence",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "高雄Capstone Steakhouse",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "路易奇電力公司",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "Bulimia溫體牛火鍋",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "山上走走日式無菜單海鮮鍋物",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "山上走走燒肉專賣店",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "UNCLE SHAWN 燒肉餐酒館",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "大股熟成燒肉",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "秘町炭火燒肉",
+        "store_type_name": "指定國內餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "錢櫃KTV",
+        "store_type_name": "指定KTV/電玩",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "好樂迪KTV",
+        "store_type_name": "指定KTV/電玩",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "星聚點KTV",
+        "store_type_name": "指定KTV/電玩",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "享溫馨KTV",
+        "store_type_name": "指定KTV/電玩",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "PlayStation",
+        "store_type_name": "指定KTV/電玩",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "Nintendo",
+        "store_type_name": "指定KTV/電玩",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "巴哈姆特動畫瘋",
+        "store_type_name": "指定KTV/電玩",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "新光三越",
+        "store_type_name": "指定百貨",
+        "reward_amount": 0.035
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "Klook",
+        "store_type_name": "休閒娛樂",
+        "reward_amount": 0.035
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "FunNow",
+        "store_type_name": "休閒娛樂",
+        "reward_amount": 0.035
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "慶生月",
+        "store_name": "Uber Eats",
+        "store_type_name": "指定國內外送平台",
+        "reward_amount": 0.035
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "來支付",
+        "store_name": "LINE Pay消費",
+        "store_type_name": "LINE Pay消費",
+        "reward_amount": 0.02
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "大樹先生的家",
+        "store_type_name": "親子餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Money Jump 媽妳講親子餐廳",
+        "store_type_name": "親子餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "淘憩時光親子餐廳",
+        "store_type_name": "親子餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "大房子親子餐廳樂園",
+        "store_type_name": "親子餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "小島3.5度親子餐廳",
+        "store_type_name": "親子餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "咱們小時候",
+        "store_type_name": "親子餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "甲蟲秘境",
+        "store_type_name": "親子餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Zone Cafe 弄咖啡親子餐廳",
+        "store_type_name": "親子餐廳",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "10mois台灣官網",
+        "store_type_name": "嬰幼童品牌官網",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Mamas&Papas台灣官網",
+        "store_type_name": "嬰幼童品牌官網",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Nuna品牌官網",
+        "store_type_name": "嬰幼童品牌官網",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Tender Leaf台灣官網",
+        "store_type_name": "嬰幼童品牌官網",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "cybex台灣官網",
+        "store_type_name": "嬰幼童品牌官網",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "朱宗慶打擊樂教學系統",
+        "store_type_name": "五感體驗課",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "雲門舞集舞蹈教室",
+        "store_type_name": "五感體驗課",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Yamaha音樂教室",
+        "store_type_name": "五感體驗課",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "TutorABC Junior",
+        "store_type_name": "五感體驗課",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Cambly Kids",
+        "store_type_name": "五感體驗課",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Etalking Kids",
+        "store_type_name": "五感體驗課",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "iSKI滑雪俱樂部",
+        "store_type_name": "五感體驗課",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "汐游寶寶",
+        "store_type_name": "五感體驗課",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "國立臺灣科學教育館",
+        "store_type_name": "五感體驗課",
+        "reward_amount": 0.1
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Klook",
+        "store_type_name": "親子育樂",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "東京迪士尼樂園",
+        "store_type_name": "親子育樂",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "大阪環球影城(USJ)",
+        "store_type_name": "親子育樂",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "麗寶樂園",
+        "store_type_name": "親子育樂",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "六福村主題樂園",
+        "store_type_name": "親子育樂",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "九族文化村",
+        "store_type_name": "親子育樂",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "劍湖山世界主題樂園",
+        "store_type_name": "親子育樂",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "義大遊樂世界",
+        "store_type_name": "親子育樂",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "小叮噹科學園區主題樂園",
+        "store_type_name": "親子育樂",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "蘭城晶英酒店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "礁溪寒沐酒店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "大溪笠復威斯汀度假酒店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "煙波大飯店新竹湖濱館",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "麗寶福容大飯店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "雲品溫泉酒店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "和逸飯店(台南西門館、桃園館)",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "義大皇家酒店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "高雄洲際酒店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "高雄萬豪酒店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "墾丁凱撒大飯店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "花蓮遠雄悅來大飯店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "瑞穗天合國際觀光酒店",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "六福莊",
+        "store_type_name": "親子飯店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "卡多摩嬰童館",
+        "store_type_name": "母嬰用品店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "營養銀行",
+        "store_type_name": "母嬰用品店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "安琪兒婦嬰百貨",
+        "store_type_name": "母嬰用品店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "宜兒樂",
+        "store_type_name": "母嬰用品店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "麗兒采家",
+        "store_type_name": "母嬰用品店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "Taobaby濤寶日記",
+        "store_type_name": "母嬰用品店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "俏媽咪",
+        "store_type_name": "母嬰用品店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "媽媽好",
+        "store_type_name": "母嬰用品店",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "國泰世華銀行",
+        "card_name": "CUBE卡",
+        "benefit_plan": "童樂匯",
+        "store_name": "媽媽餵mamaway",
+        "store_type_name": "母嬰用品店",
+        "reward_amount": 0.05
+    }
+]

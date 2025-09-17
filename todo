@@ -1,0 +1,9 @@
+High Priority:
+1. Calculate the accuracy for LLM to analyze the scraped data.
+2. 
+
+Low Priority:
+1. Add "Country" column because some rewards are only available in specific countries. (e.g. 吉鶴卡 Japan Lawson)
+2. Add "Limitation" column. (e.g. 吉鶴卡在勝博殿滿1000折100:限實體卡)
+3. How to store rewards like 滿1000折100 in rewards database.
+4. 

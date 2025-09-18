@@ -1,0 +1,682 @@
+[
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日幣消費2.5%",
+        "store_name": "null",
+        "store_type_name": "null",
+        "reward_amount": 2.5
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本QUICPay加碼1.5%",
+        "store_name": "null",
+        "store_type_name": "null",
+        "reward_amount": 1.5
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "7-ELEVEN",
+        "store_type_name": "便利商店",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "FamilyMart",
+        "store_type_name": "便利商店",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "LAWSON",
+        "store_type_name": "便利商店",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "東京迪士尼",
+        "store_type_name": "遊樂園",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "大阪環球影城",
+        "store_type_name": "遊樂園",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "永旺",
+        "store_type_name": "百貨公司",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "三越",
+        "store_type_name": "百貨公司",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "高島屋",
+        "store_type_name": "百貨公司",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "BIC CAMERA",
+        "store_type_name": "量販",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "EDION愛電王",
+        "store_type_name": "量販",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本11大熱門商店加碼3%",
+        "store_name": "多慶屋",
+        "store_type_name": "量販",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "新戶日本實體消費加碼3%",
+        "store_name": "null",
+        "store_type_name": "null",
+        "reward_amount": 3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本三大交通卡儲值免手續費",
+        "store_name": "SUICA",
+        "store_type_name": "交通卡儲值",
+        "reward_amount": 1.5
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本三大交通卡儲值免手續費",
+        "store_name": "PASMO",
+        "store_type_name": "交通卡儲值",
+        "reward_amount": 1.5
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "日本三大交通卡儲值免手續費",
+        "store_name": "ICOCA",
+        "store_type_name": "交通卡儲值",
+        "reward_amount": 1.5
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "國內一般消費1%",
+        "store_name": "null",
+        "store_type_name": "null",
+        "reward_amount": 1
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "綁定聯邦帳戶自扣加碼0.3%",
+        "store_name": "null",
+        "store_type_name": "null",
+        "reward_amount": 0.3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "DAISO大創百貨",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "Standard Products",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "THREEPPY",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "日藥本舖",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "松本清",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "三友藥妝Tomod's",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "HANDS 台隆手創館",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "札幌藥妝",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "TSUTAYA BOOKSTORE",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "UNIQLO",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "嚴選日系名店加碼4%",
+        "store_name": "GU",
+        "store_type_name": "日系名店",
+        "reward_amount": 4
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "Mo-Mo-Paradise",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "BELLINI CAFFÈ",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "BELLINI Pasta Pasta",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "MOLINO 手工義大利麵",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "天吉屋",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "吉天麩羅",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "大江戶町鰻屋",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "大河屋 燒肉丼 串燒",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "大漁迴轉壽司",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "嵐山熟成牛かつ專売-",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "參元豚研究所",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "Skylark洋食·芳鄰",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "勝博殿",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "金子半之助",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "日本橋海鮮丼",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "欣葉日本料理",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "一風堂",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 8.33
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "吉豚屋",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "麵屋武藏",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "山頭火拉麵",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "YAYOI 彌生軒",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "山本漢堡排",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "屯京拉麵",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "ラーメン凪 Ramen Nagi",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "壽司美登利",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "新宿內臟燒肉",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "千葉火鍋",
+        "store_type_name": "火鍋店",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "享千葉火鍋",
+        "store_type_name": "火鍋店",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "人氣餐廳最高現折10%",
+        "store_name": "新千葉火鍋",
+        "store_type_name": "火鍋店",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "搭機優惠加碼2%",
+        "store_name": "台灣虎航",
+        "store_type_name": "航空公司",
+        "reward_amount": 2
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "搭機優惠加碼2%",
+        "store_name": "ANA全日空",
+        "store_type_name": "航空公司",
+        "reward_amount": 2
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "搭機優惠加碼2%",
+        "store_name": "日本航空",
+        "store_type_name": "航空公司",
+        "reward_amount": 2
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "搭機優惠加碼2%",
+        "store_name": "樂桃航空",
+        "store_type_name": "航空公司",
+        "reward_amount": 2
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "樂天旅遊日式旅館訂房優惠",
+        "store_name": "樂天旅遊",
+        "store_type_name": "旅遊訂房網站",
+        "reward_amount": 8
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "國內消費 1.3% (含綁定聯邦帳戶自扣加碼0.3%)",
+        "store_name": "null",
+        "store_type_name": "null",
+        "reward_amount": 1.3
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "國外一般消費1%",
+        "store_name": "null",
+        "store_type_name": "null",
+        "reward_amount": 1
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB食在日系折抵NT$50",
+        "store_name": "Suage北海道湯咖哩",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 50
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB食在日系折抵NT$50",
+        "store_name": "一風堂",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 50
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB食在日系折抵NT$50",
+        "store_name": "ラーメン凪 豚骨拉麵",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 50
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB食在日系折抵NT$50",
+        "store_name": "日本最大連鎖食堂",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 50
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB食在日系折抵NT$50",
+        "store_name": "台湾スシロー台灣壽司郎",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 50
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB食在日系折抵NT$50",
+        "store_name": "伊勢路勝勢日式豬排",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 50
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB食在日系折抵NT$50",
+        "store_name": "靜岡勝政日式豬排",
+        "store_type_name": "日系餐廳",
+        "reward_amount": 50
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB五星饗宴下午茶6折優惠",
+        "store_name": "null",
+        "store_type_name": "五星餐廳下午茶",
+        "reward_amount": 40
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB Hotels.com訂房優惠",
+        "store_name": "Hotels.com",
+        "store_type_name": "訂房網站",
+        "reward_amount": 8
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB Agoda訂房優惠",
+        "store_name": "Agoda",
+        "store_type_name": "訂房網站",
+        "reward_amount": 7
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB機場接送服務",
+        "store_name": "null",
+        "store_type_name": "機場接送服務",
+        "reward_amount": 100
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB台灣虎航購票優惠",
+        "store_name": "台灣虎航",
+        "store_type_name": "航空公司",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "中華電信吉鶴卡_日韓5日型專享優惠",
+        "store_name": "中華電信",
+        "store_type_name": "電信服務",
+        "reward_amount": 588
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB Nippon SIM日韓上網SIM卡/eSIM優惠",
+        "store_name": "Nippon SIM",
+        "store_type_name": "上網服務",
+        "reward_amount": 20
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB Klook日韓旅遊商品優惠",
+        "store_name": "Klook",
+        "store_type_name": "旅遊平台",
+        "reward_amount": 15
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB Klook日韓旅遊商品加碼優惠 (前100名)",
+        "store_name": "Klook",
+        "store_type_name": "旅遊平台",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB悠遊自動加值10%現金回饋",
+        "store_name": "null",
+        "store_type_name": "交通卡儲值",
+        "reward_amount": 10
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB星巴克指定飲品半價優惠",
+        "store_name": "星巴克",
+        "store_type_name": "咖啡店",
+        "reward_amount": 50
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "benefit_plan": "JCB星巴克加購糕點優惠",
+        "store_name": "星巴克",
+        "store_type_name": "咖啡店",
+        "reward_amount": 5
+    }
+]

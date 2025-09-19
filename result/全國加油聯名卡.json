@@ -1,0 +1,16 @@
+[
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "全國加油聯名卡",
+        "store_name": "全國加油站",
+        "store_type_name": "加油站",
+        "reward_amount": 0
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "全國加油聯名卡",
+        "store_name": "全國加油站以外商店",
+        "store_type_name": "一般消費",
+        "reward_amount": 0
+    }
+]

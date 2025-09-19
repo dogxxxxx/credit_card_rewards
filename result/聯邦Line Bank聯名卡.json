@@ -1,0 +1,142 @@
+[
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "MOMO購物網",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "PChome線上購物",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "淘寶",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "蝦皮",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "酷澎",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "Netflix",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "Disney+",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "CatchPlay",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "Spotify",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "LINE TV",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "KKTV",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "KKBOX",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "Steam",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "PlayStation",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "Nintendo",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "Blizzard",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "Garena",
+        "store_type_name": "指定影音/網購/遊戲",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "null",
+        "store_type_name": "國內消費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "null",
+        "store_type_name": "國外消費",
+        "reward_amount": 0.025
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦LINE Bank聯名卡",
+        "store_name": "null",
+        "store_type_name": "保險消費",
+        "reward_amount": 0.01
+    }
+]

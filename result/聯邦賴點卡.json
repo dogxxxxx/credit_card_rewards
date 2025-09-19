@@ -1,0 +1,296 @@
+[
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "國外消費",
+        "store_type_name": "Travel/International",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "國內消費",
+        "store_type_name": "General Spending",
+        "reward_amount": 0.013
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "保費",
+        "store_type_name": "Insurance",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "萊爾富超商",
+        "store_type_name": "Convenience Store",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "王品集團",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "三商集團",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "輕井澤集團",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "漢來美食集團",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "海底撈",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "春水堂",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "築間",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "壽司郎",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "爭鮮",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "八方雲集",
+        "store_type_name": "Restaurant",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "NIKE",
+        "store_type_name": "Sports/Apparel",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "Adidas",
+        "store_type_name": "Sports/Apparel",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "NewBalance",
+        "store_type_name": "Sports/Apparel",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "摩曼頓",
+        "store_type_name": "Sports/Apparel",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "鞋全家福",
+        "store_type_name": "Sports/Apparel",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "迪卡儂",
+        "store_type_name": "Sports/Apparel",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "Xpark",
+        "store_type_name": "Theme Park/Aquarium",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "小人國",
+        "store_type_name": "Theme Park/Aquarium",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "六福村",
+        "store_type_name": "Theme Park/Aquarium",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "麗寶樂園",
+        "store_type_name": "Theme Park/Aquarium",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "劍湖山",
+        "store_type_name": "Theme Park/Aquarium",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "義大世界",
+        "store_type_name": "Theme Park/Aquarium",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "花蓮海洋公園",
+        "store_type_name": "Theme Park/Aquarium",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "IKEA",
+        "store_type_name": "Home Furnishings",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "Hola",
+        "store_type_name": "Home Furnishings",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "汪喵星球",
+        "store_type_name": "Pet Store",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "東森寵物",
+        "store_type_name": "Pet Store",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "咕咕Ｇ",
+        "store_type_name": "Pet Store",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "魚中魚",
+        "store_type_name": "Pet Store",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "寵物公園",
+        "store_type_name": "Pet Store",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "星巴克",
+        "store_type_name": "Coffee Shop",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "路易莎",
+        "store_type_name": "Coffee Shop",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "cama",
+        "store_type_name": "Coffee Shop",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "CAFE!N",
+        "store_type_name": "Coffee Shop",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "85度C",
+        "store_type_name": "Coffee Shop",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "50嵐",
+        "store_type_name": "Beverage Shop",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "麻古茶坊",
+        "store_type_name": "Beverage Shop",
+        "reward_amount": 0.05
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦賴點卡",
+        "store_name": "得正",
+        "store_type_name": "Beverage Shop",
+        "reward_amount": 0.05
+    }
+]

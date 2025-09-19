@@ -3,476 +3,280 @@
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "null",
-        "store_type_name": "日幣一般消費",
+        "store_type_name": "Japanese Yen Consumption",
         "reward_amount": 0.025
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "null",
-        "store_type_name": "QUICPay消費",
-        "reward_amount": 0.015
+        "store_type_name": "Domestic General Consumption",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "store_name": "null",
+        "store_type_name": "Domestic General Consumption with automatic deduction from Union Bank account",
+        "reward_amount": 0.013
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "store_name": "null",
+        "store_type_name": "Foreign Currency Consumption (excluding JPY)",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "store_name": "null",
+        "store_type_name": "QUICPay Consumption in Japan via Apple Pay",
+        "reward_amount": 0.04
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦吉鶴卡",
+        "store_name": "null",
+        "store_type_name": "Japanese Physical Store (New User Offer)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "7-ELEVEN",
-        "store_type_name": "便利商店",
-        "reward_amount": 0.03
+        "store_type_name": "Convenience Store (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "FamilyMart",
-        "store_type_name": "便利商店",
-        "reward_amount": 0.03
+        "store_type_name": "Convenience Store (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "LAWSON",
-        "store_type_name": "便利商店",
-        "reward_amount": 0.03
+        "store_type_name": "Convenience Store (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "東京迪士尼",
-        "store_type_name": "遊樂園",
-        "reward_amount": 0.03
+        "store_type_name": "Amusement Park (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "大阪環球影城",
-        "store_type_name": "遊樂園",
-        "reward_amount": 0.03
+        "store_type_name": "Amusement Park (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "永旺",
-        "store_type_name": "百貨公司",
-        "reward_amount": 0.03
+        "store_type_name": "Department Store (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "三越",
-        "store_type_name": "百貨公司",
-        "reward_amount": 0.03
+        "store_type_name": "Department Store (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "高島屋",
-        "store_type_name": "百貨公司",
-        "reward_amount": 0.03
+        "store_type_name": "Department Store (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "BIC CAMERA",
-        "store_type_name": "量販",
-        "reward_amount": 0.03
+        "store_type_name": "Mass Retail (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "EDION愛電王",
-        "store_type_name": "量販",
-        "reward_amount": 0.03
+        "store_type_name": "Mass Retail (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "多慶屋",
-        "store_type_name": "量販",
-        "reward_amount": 0.03
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "null",
-        "store_type_name": "新戶日本實體商店",
-        "reward_amount": 0.03
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "null",
-        "store_type_name": "國內一般消費",
-        "reward_amount": 0.01
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "null",
-        "store_type_name": "聯邦帳戶自扣加碼",
-        "reward_amount": 0.003
+        "store_type_name": "Mass Retail (Japan)",
+        "reward_amount": 0.055
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "DAISO大創百貨",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "Standard Products",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "THREEPPY",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "日藥本舖",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "松本清",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "三友藥妝Tomod's",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "HANDS 台隆手創館",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "札幌藥妝",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "TSUTAYA BOOKSTORE",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "UNIQLO",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "GU",
-        "store_type_name": "嚴選日系名店",
-        "reward_amount": 0.04
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "Mo-Mo-Paradise",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "BELLINI CAFFÈ",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "BELLINI Pasta Pasta",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "MOLINO 手工義大利麵",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "天吉屋",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "吉天麩羅",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "大江戶町鰻屋",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "大河屋 燒肉丼 串燒",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "大漁迴轉壽司",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "嵐山熟成牛かつ專売-",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "參元豚研究所",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "Skylark洋食·芳鄰",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "勝博殿",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "金子半之助",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "日本橋海鮮丼",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "欣葉日本料理",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "一風堂",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.0833
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "吉豚屋",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "麵屋武藏",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "山頭火拉麵",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "YAYOI 彌生軒",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "山本漢堡排",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "屯京拉麵",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "ラーメン凪 Ramen Nagi",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "壽司美登利",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "新宿內臟燒肉",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "千葉火鍋",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "享千葉火鍋",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
-    },
-    {
-        "bank_name": "聯邦銀行",
-        "card_name": "聯邦吉鶴卡",
-        "store_name": "新千葉火鍋",
-        "store_type_name": "日系餐廳",
-        "reward_amount": 0.1
+        "store_type_name": "Selected Japanese-style Store (Domestic)",
+        "reward_amount": 0.053
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "台灣虎航",
-        "store_type_name": "航空公司",
-        "reward_amount": 0.02
+        "store_type_name": "Airline",
+        "reward_amount": 0.033
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "ANA全日空",
-        "store_type_name": "航空公司",
-        "reward_amount": 0.02
+        "store_type_name": "Airline",
+        "reward_amount": 0.033
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "日本航空",
-        "store_type_name": "航空公司",
-        "reward_amount": 0.02
+        "store_type_name": "Airline",
+        "reward_amount": 0.033
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "樂桃航空",
-        "store_type_name": "航空公司",
-        "reward_amount": 0.02
+        "store_type_name": "Airline",
+        "reward_amount": 0.033
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "null",
-        "store_type_name": "國外一般消費",
-        "reward_amount": 0.01
+        "store_type_name": "Fine Dining Restaurants (JCB offer)",
+        "reward_amount": 0.4
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "Hotels.com",
-        "store_type_name": "訂房平台",
+        "store_type_name": "Hotel Booking Platform",
         "reward_amount": 0.08
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "Agoda",
-        "store_type_name": "訂房平台",
+        "store_type_name": "Hotel Booking Platform",
         "reward_amount": 0.07
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "台灣虎航",
-        "store_type_name": "航空公司",
+        "store_type_name": "Airline (JCB offer)",
         "reward_amount": 0.1
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
-        "store_name": "Nippon SIM",
-        "store_type_name": "上網SIM卡/eSIM",
+        "store_name": "Nippon SIM日韓上網SIM卡/eSIM",
+        "store_type_name": "Telecommunication Service",
         "reward_amount": 0.2
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "null",
-        "store_type_name": "悠遊卡自動加值",
+        "store_type_name": "Transportation Card Auto-recharge (EasyCard)",
         "reward_amount": 0.1
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "星巴克",
-        "store_type_name": "咖啡廳",
+        "store_type_name": "Cafe",
         "reward_amount": 0.5
     },
     {
         "bank_name": "聯邦銀行",
         "card_name": "聯邦吉鶴卡",
         "store_name": "星巴克",
-        "store_type_name": "咖啡廳 (糕點)",
+        "store_type_name": "Cafe (Pastry Add-on)",
         "reward_amount": 0.05
     }
 ]

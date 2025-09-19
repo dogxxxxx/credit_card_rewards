@@ -4,6 +4,7 @@
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import time, json, re, os, sys
+from config import CARD_URLS
 
 def scrape_cube(URL):
     with sync_playwright() as p:
@@ -23,9 +24,14 @@ def scrape_cube(URL):
     return text
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python test_crawler.py $URL")
-        sys.exit()
-    with open("../tmp/output", "w", encoding="utf-8") as f:
-        content = scrape_cube(sys.argv[1])
-        f.write(content)
+    # if len(sys.argv) < 2:
+    #     print("Usage: python test_crawler.py $URL")
+    #     sys.exit()
+    # with open("../tmp/output", "w", encoding="utf-8") as f:
+    #     content = scrape_cube(sys.argv[1])
+    #     f.write(content)
+
+    for name, url in CARD_URLS.items():
+        with open(f"../tmp/{name}", "w+", encoding="utf-8") as f:
+            content = scrape_cube(url)
+            f.write(content)

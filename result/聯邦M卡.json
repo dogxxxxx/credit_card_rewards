@@ -1,0 +1,79 @@
+[
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "指定交通/旅遊 (國內)",
+        "store_type_name": "交通與旅遊",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "指定交通/旅遊 (國外)",
+        "store_type_name": "交通與旅遊",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "指定交通/旅遊 (國內)",
+        "store_type_name": "交通與旅遊",
+        "reward_amount": 0.005
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "指定交通/旅遊 (國外)",
+        "store_type_name": "交通與旅遊",
+        "reward_amount": 0.015
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "國內一般消費",
+        "store_type_name": "一般消費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "國內一般消費",
+        "store_type_name": "一般消費",
+        "reward_amount": 0.005
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "國外實體商店",
+        "store_type_name": "國外消費",
+        "reward_amount": 0.03
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "非國外實體商店",
+        "store_type_name": "國外消費",
+        "reward_amount": 0.015
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "國外",
+        "store_type_name": "國外消費",
+        "reward_amount": 0.015
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "國內保險",
+        "store_type_name": "保險",
+        "reward_amount": 0.012
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦M卡",
+        "store_name": "國內保險",
+        "store_type_name": "保險",
+        "reward_amount": 0.005
+    }
+]

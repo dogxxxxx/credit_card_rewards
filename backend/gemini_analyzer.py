@@ -28,7 +28,7 @@ class GeminiAnalyzer:
         Rules:
         - If information is not available, use null for that field
         - store_name should be exactly the same as in the text
-        - reward amount is the percentage rewards. If the rewards is a fixed number, dont include it. (e.g. 2% rewards should be state as 0.02)
+        - reward amount is the percentage rewards. If the rewards is a fixed number, ignore it. (e.g. 2% rewards should be state as 0.02)
         
         Text to analyze: {input_text}
         """
@@ -53,12 +53,12 @@ def analyze_credit_card_text(input_text: str, api_key: str = None):
 if __name__ == "__main__":
     load_dotenv()
     API_KEY = os.getenv('GEMINI_API_KEY')
-    with open("tmp\\吉鶴卡", "r", encoding="utf-8") as f:
+    with open("tmp\\聯邦賴點卡", "r", encoding="utf-8") as f:
         text = f.read()
 
     try:
         reward_dict = analyze_credit_card_text(text, api_key=API_KEY)
-        with open("result\\吉鶴卡.json", "w+", encoding="utf-8") as f:
+        with open("result\\聯邦賴點卡.json", "w+", encoding="utf-8") as f:
             json.dump(reward_dict, f, indent=4, ensure_ascii=False)
     except Exception as e:
         print(f"Error: {e}")

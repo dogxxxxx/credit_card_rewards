@@ -1,0 +1,408 @@
+[
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "國外一般消費",
+        "store_type_name": "一般消費",
+        "reward_amount": 0.02
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "國內一般消費",
+        "store_type_name": "一般消費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "EVALUE(華城電能)官方APP之充電費用",
+        "store_type_name": "電動車充/換電",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "EVOASIS (源點科技) 官方APP之充電費用",
+        "store_type_name": "電動車充/換電",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台灣特斯拉官方網站,官方APP之充電費用",
+        "store_type_name": "電動車充/換電",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "Gogoro官方APP之資費方案",
+        "store_type_name": "電動車充/換電",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "eMoving官方之資費方案",
+        "store_type_name": "電動車充/換電",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "iRent",
+        "store_type_name": "共享交通",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "Zipcar",
+        "store_type_name": "共享交通",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "GoShare",
+        "store_type_name": "共享交通",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "WeMo Scooter",
+        "store_type_name": "共享交通",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "聖德科斯",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "里仁",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "棉花田",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台灣主婦聯盟",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "健康食彩",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "安永鮮物",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "GREEN&SAFE 真食物專賣店",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "野菜村有機生活館",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "柑仔店有機健康超市",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "直接跟農夫買",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "甘樂文創",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "鮮乳坊",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "茶籽堂",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "AESOP",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "10/10 HOPE",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "O'right歐萊德",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "綠藤生機",
+        "store_type_name": "生機選品",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "中華民國荒野保護協會",
+        "store_type_name": "綠色捐贈",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台灣千里步道協會",
+        "store_type_name": "綠色捐贈",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "看見齊柏林基金會",
+        "store_type_name": "綠色捐贈",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "主婦聯盟環境保護基金會",
+        "store_type_name": "綠色捐贈",
+        "reward_amount": 0.06
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台電公司電費",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台北自來水費",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台灣省自來水費",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "大台北瓦斯",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "欣泰油氣",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "欣欣天然",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "新海",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "欣湖",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "欣中",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "欣桃",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "陽明山",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "欣南",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "欣雄",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "欣高",
+        "store_type_name": "水/電/瓦斯費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "中華電信",
+        "store_type_name": "電信費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台灣大哥大",
+        "store_type_name": "電信費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "遠傳",
+        "store_type_name": "電信費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台灣之星",
+        "store_type_name": "電信費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "亞太",
+        "store_type_name": "電信費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台北市路邊停車費",
+        "store_type_name": "路邊停車費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "新北市路邊停車費",
+        "store_type_name": "路邊停車費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "桃園市路邊停車費",
+        "store_type_name": "路邊停車費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "新竹縣市路邊停車費",
+        "store_type_name": "路邊停車費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台中市路邊停車費",
+        "store_type_name": "路邊停車費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "台南市路邊停車費",
+        "store_type_name": "路邊停車費",
+        "reward_amount": 0.01
+    },
+    {
+        "bank_name": "聯邦銀行",
+        "card_name": "聯邦綠卡",
+        "store_name": "高雄市路邊停車費",
+        "store_type_name": "路邊停車費",
+        "reward_amount": 0.01
+    }
+]
